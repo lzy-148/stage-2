@@ -1,0 +1,8 @@
+{
+  "venvPath": "D:/work/36w/stage 2",
+  "venv": ".venv",
+  "extraPaths": [
+    "LinearRegression_Project",
+    "LinearRegression_Project/src"
+  ]
+}
