@@ -22,6 +22,14 @@
 4. **实验比较：** 使用相同或相近的数据集，对不同实现和不同模型进行比较。
 5. **误差分析：** 由于有失败的实验数据，分析模型产生错误的原因并纠正
 
+## 实验代码
+本实验的代码都已经上传至：https://github.com/lzy-148/stage-2/tree/main
+任务一的代码文件是：https://github.com/lzy-148/stage-2/tree/main/LinearRegression_Project
+任务二的代码文件是：https://github.com/lzy-148/stage-2/tree/main/ai-learning
+任务三的代码文件是：https://github.com/lzy-148/stage-2/tree/main/KNN
+任务四的代码文件是：https://github.com/lzy-148/stage-2/tree/main/Kmeans
+
+执行这组代码的方式是：python run_all.py
 
 ## 任务一：线性回归与梯度下降
 ### 数学原理
